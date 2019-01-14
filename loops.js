@@ -21,6 +21,6 @@ function whileLoop(n)
     console.log(n)
     
   }
-  return
+  return "done"
 }
 whileLoop(12)
