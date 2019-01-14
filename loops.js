@@ -21,4 +21,3 @@ function whileLoop(n)
     n--
   }
 }
-whileLoop(6)
