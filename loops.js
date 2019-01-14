@@ -22,3 +22,4 @@ function whileLoop(n)
     
   }
 }
+whileLoop(12)
