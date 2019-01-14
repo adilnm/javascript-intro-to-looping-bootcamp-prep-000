@@ -31,8 +31,8 @@ function incrementVariable() {
   i = i + 1;
 }
  do{
-   array.pop()
-   while()
+   array.pop();
+   while(array.length > 0 && incrementVariable())
  }
 }
 
