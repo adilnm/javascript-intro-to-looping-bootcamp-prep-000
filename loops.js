@@ -31,7 +31,8 @@ function incrementVariable() {
   i = i + 1;
 }
  do{
-   
+   array.pop()
+   while()
  }
 }
 
