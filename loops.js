@@ -22,4 +22,4 @@ function whileLoop(n)
     
   }
 }
-whileLoop(12)
+whileLoop(6)
